@@ -380,3 +380,7 @@ def post_to_file(string, filename='tournament.txt', directory=''):
 if __name__ == '__main__':
     scores, moves, reports = main_play(modules[0:4])   
     section0, section1, section2, section3 = reports
+    
+def team_name:
+    team_name = 'The name the team gives itself'
+    
