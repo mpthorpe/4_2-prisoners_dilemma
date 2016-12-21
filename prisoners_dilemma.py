@@ -386,3 +386,7 @@ if __name__ == '__main__':
 def team_name:
     team_name = 'The name the team gives itself'
     
+    
+    
+#final
+            
